@@ -27,5 +27,18 @@ Soft Skills:
 ![YaleDiaz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaleDiaz&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
 ----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YaleDIaz.YaleDIaz&"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YaleDIaz/YaleDIaz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YaleDIaz/YaleDIaz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YaleDIaz/YaleDIaz/output/pacman-contribution-graph.svg">
+</picture>
 
 Last Edited on: 03/11/2025
