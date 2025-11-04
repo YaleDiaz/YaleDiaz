@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there 👋, my name is Yale
+[<img src='https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg' alt='linkedin' height='30'>](https://dev.to/ihchowdhury)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ibrahimchowdhury/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/5032512)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](http://ibrahimchowdhury.me/)
 
-<!--
-**YaleDiaz/YaleDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Holding a solid technical background in Digital Systems, I possess three years of academic experience in electronic circuit design and analysis. This foundation provides me with a deep understanding of hardware and its interactions.
 
-Here are some ideas to get you started:
+My current technical knowledge includes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Fundamentals: Basic proficiency in the C Language for low-level programming and systems.
+
+Embedded Systems (IoT): Practical experience with prototyping platforms like Arduino and ESP32, and experience in Basic Electronics.
+
+Control and Architecture: Basic notions of Assembly Language and introductory knowledge of Automation with PLCs (Programmable Logic Controllers).
+
+Development and Simulation Tools:
+
+Circuit Design: Experience with software such as PROTEUS, Livewire, and PCB Wizard.
+
+Integrated Development Environments (IDEs): Familiarity with Code::Blocks and Visual Studio for development and debugging.
+
+I am proactively open to working with new technologies and development stacks, seeking opportunities to expand and apply my skills in challenging projects.
+
+Soft Skills:
+
+- Problem Solving, TeamWork, Communication 
+
+![Yale´s github stats](https://github-readme-stats.vercel.app/api?username=IhChowdhury&show_icons=true&theme=radical)
+
+----
+
+Last Edited on: 03/11/2025
