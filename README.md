@@ -23,7 +23,8 @@ Soft Skills:
 
 - Problem Solving, TeamWork, Communication 
 
-![Yale´s github stats](https://github-readme-stats.vercel.app/api?username=IhChowdhury&show_icons=true&theme=radical)
+![YaleDiaz's Stats](https://github-readme-stats.vercel.app/api?username=YaleDiaz&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+![YaleDiaz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaleDiaz&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
 ----
 
