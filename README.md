@@ -12,10 +12,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/IPN-UPIICSA-6C1D45?style=flat-square" alt="IPN UPIICSA">
   <img src="https://img.shields.io/badge/Copiloto-Claude%20%E2%99%A5-D97757?style=flat-square&logo=claude&logoColor=white" alt="Copiloto: Claude">
-  <img src="https://img.shields.io/badge/Hecho%20en-CDMX%20%F0%9F%87%B2%F0%9F%87%BD-0B1F3A?style=flat-square" alt="Hecho en CDMX">
+  <img src="https://img.shields.io/badge/Hecho%20en-CDMX-0B1F3A?style=flat-square" alt="Hecho en CDMX">
 </p>
 
-<p align="center"><i>🇺🇸 Computer Engineering student at IPN UPIICSA (Mexico City). I build software for small businesses with Claude as my copilot, and share the journey as a content creator.</i></p>
+<p align="center"><i>🌎 <b>EN:</b> Computer Engineering student at IPN UPIICSA (Mexico City). I build software for small businesses with Claude as my copilot, and share the journey as a content creator.</i></p>
 
 ---
 
@@ -47,13 +47,13 @@ No aprendí a programar solo viendo tutoriales: aprendo **construyendo proyectos
 
 | Proyecto | Qué hace | Tecnologías |
 |---|---|---|
-| [🔥 **Racha**](https://github.com/YaleDiaz/racha) | App Android de hábitos estilo Duolingo: rachas, fotos de evidencia, amigos, liga semanal, rutinas de gym y conexión con smartwatch. Incluye pruebas y compila el APK sola con GitHub Actions. | JavaScript · Capacitor · PHP · MySQL |
+| [🔥 **Racha**](https://github.com/YaleDiaz/racha) | App Android de hábitos estilo Duolingo: rachas, fotos de evidencia, amigos, liga semanal, rutinas de gym y conexión con smartwatch. Incluye pruebas y compila el APK sola con GitHub Actions. [▶ Versión web](https://yalediaz.summaclothes.com/racha/) | JavaScript · Capacitor · PHP · MySQL |
 | 🏋️ **Control Gimnasio** | Sistema para gimnasios: membresías, pagos con recibo, asistencia con reconocimiento facial, punto de venta, inventario y respaldos. Código privado, se vende con licencia → [ver en mi portafolio](https://yalediaz.summaclothes.com) | App de escritorio (Windows) |
-| [🎨 **Juntos**](https://github.com/YaleDiaz/juntos) | Editor tipo Canva en tiempo real: presentaciones, documentos y posts que dos personas editan al mismo tiempo con un link. | JavaScript · Firebase |
+| [🎨 **Juntos**](https://github.com/YaleDiaz/juntos) | Editor tipo Canva en tiempo real: presentaciones, documentos y posts que dos personas editan al mismo tiempo con un link. [▶ Probar](https://yalediaz.github.io/juntos/) | JavaScript · Firebase |
 | 🏗️ [**JMGB Construcción**](https://construccionjmgb.com) | Página para una constructora de CDMX: catálogo de 56 proyectos con filtros, galería, cotización por WhatsApp, SEO local y dominio propio. | HTML · CSS · JavaScript |
 | [🎵 **YT → MP3**](https://github.com/YaleDiaz/yt-mp3-downloader) | Descargador de audio de YouTube con interfaz gráfica, elección de calidad y barra de progreso en tiempo real. | Python · yt-dlp · FFmpeg |
-| [🧙 **Traductor Minecraft**](https://github.com/YaleDiaz/traductor-minecraft) | Traduce texto al alfabeto de la mesa de encantamientos y lo descarga como imagen PNG. | HTML · CSS · JavaScript |
-| [👕 **SUMMA Clothes**](https://github.com/YaleDiaz/summa-clothes) | Sitio y [ruleta de sorteos](https://github.com/YaleDiaz/summa-ruleta) para mi marca de streetwear. | HTML · CSS · JavaScript |
+| [🧙 **Traductor Minecraft**](https://github.com/YaleDiaz/traductor-minecraft) | Traduce texto al alfabeto de la mesa de encantamientos y lo descarga como imagen PNG. [▶ Probar](https://yalediaz.github.io/traductor-minecraft/) | HTML · CSS · JavaScript |
+| [👕 **SUMMA Clothes**](https://github.com/YaleDiaz/summa-clothes) | Sitio y [ruleta de sorteos](https://github.com/YaleDiaz/summa-ruleta) para mi marca de streetwear. [▶ Girar la ruleta](https://yalediaz.github.io/summa-ruleta/) | HTML · CSS · JavaScript |
 
 ---
 
