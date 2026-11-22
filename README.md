@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://yalediaz.summaclothes.com"><img src="https://img.shields.io/badge/Portafolio-yalediaz.summaclothes.com-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=F5A623" alt="Portafolio"></a>
-  <a href="https://www.linkedin.com/in/gutierrez-diaz-yael-undefined-892575323"><img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=F5A623" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/yalegtzdz/"><img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=F5A623" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@yale_diaz"><img src="https://img.shields.io/badge/YouTube-0B1F3A?style=for-the-badge&logo=youtube&logoColor=F5A623" alt="YouTube"></a>
   <a href="https://www.instagram.com/yale_diaz"><img src="https://img.shields.io/badge/Instagram-0B1F3A?style=for-the-badge&logo=instagram&logoColor=F5A623" alt="Instagram"></a>
 </p>
@@ -89,7 +89,7 @@ No aprendí a programar solo viendo tutoriales: aprendo **construyendo proyectos
 ## 💼 ¿Tienes un negocio?
 
 Hago **páginas web, sistemas de control y automatizaciones** para negocios pequeños.
-Mira precios y ejemplos en mi [**portafolio**](https://yalediaz.summaclothes.com) o escríbeme por [**LinkedIn**](https://www.linkedin.com/in/gutierrez-diaz-yael-undefined-892575323).
+Mira precios y ejemplos en mi [**portafolio**](https://yalediaz.summaclothes.com) o escríbeme por [**LinkedIn**](https://www.linkedin.com/in/yalegtzdz/).
 
 ---
 
