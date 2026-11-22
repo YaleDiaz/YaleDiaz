@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="210" viewBox="0 0 1280 210" role="img" aria-labelledby="t">
+  <title id="t">Mi flujo: idea, la platico con Claude, la construimos, se usa en la vida real</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E2444"/>
+      <stop offset="1" stop-color="#050D1C"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFD98A"/>
+      <stop offset="0.5" stop-color="#F5A623"/>
+      <stop offset="1" stop-color="#D97757"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', 'Helvetica Neue', Ubuntu, Roboto, Arial, sans-serif; }
+    .num { font-size: 15px; font-weight: 800; letter-spacing: 2px; fill: #F5A623; }
+    .ttl { font-size: 23px; font-weight: 700; fill: #FFFFFF; }
+    .txt { font-size: 15px; font-weight: 500; fill: #9FB0C8; }
+    .arrow { stroke-dasharray: 6 8; animation: flow 1s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -14; } }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { stroke-opacity: 0.35; } 50% { stroke-opacity: 1; } }
+  </style>
+
+  <rect width="1280" height="210" rx="22" fill="url(#bg)"/>
+
+  <g class="sans">
+    <!-- 1 -->
+    <rect x="34" y="34" width="262" height="142" rx="16" fill="#FFFFFF" fill-opacity="0.04" stroke="#F5A623" stroke-opacity="0.35"/>
+    <text x="58" y="70" class="num">01</text>
+    <text x="58" y="106" class="ttl">Una idea</text>
+    <text x="58" y="136" class="txt">Un problema de un negocio</text>
+    <text x="58" y="157" class="txt">o algo que yo necesito</text>
+
+    <!-- 2 -->
+    <rect class="pulse" x="346" y="34" width="262" height="142" rx="16" fill="#D97757" fill-opacity="0.12" stroke="#E8896A" stroke-width="2"/>
+    <text x="370" y="70" class="num" style="fill:#E8896A">02 · CON CLAUDE ♥</text>
+    <text x="370" y="106" class="ttl">La platicamos</text>
+    <text x="370" y="136" class="txt">Plan, dudas y cómo</text>
+    <text x="370" y="157" class="txt">funciona cada parte</text>
+
+    <!-- 3 -->
+    <rect x="658" y="34" width="262" height="142" rx="16" fill="#FFFFFF" fill-opacity="0.04" stroke="#F5A623" stroke-opacity="0.35"/>
+    <text x="682" y="70" class="num">03</text>
+    <text x="682" y="106" class="ttl">La construimos</text>
+    <text x="682" y="136" class="txt">Código, pruebas y diseño,</text>
+    <text x="682" y="157" class="txt">aprendiendo en el camino</text>
+
+    <!-- 4 -->
+    <rect x="970" y="34" width="276" height="142" rx="16" fill="#F5A623" fill-opacity="0.10" stroke="url(#gold)" stroke-width="2"/>
+    <text x="994" y="70" class="num">04</text>
+    <text x="994" y="106" class="ttl">Se usa de verdad</text>
+    <text x="994" y="136" class="txt">En un negocio, en mis</text>
+    <text x="994" y="157" class="txt">canales o en tu celular</text>
+  </g>
+
+  <!-- flechas -->
+  <g stroke="#F5A623" stroke-width="3" stroke-linecap="round" fill="none">
+    <path class="arrow" d="M302 105 H 338"/>
+    <path class="arrow" d="M614 105 H 650"/>
+    <path class="arrow" d="M926 105 H 962"/>
+  </g>
+  <g fill="#F5A623">
+    <path d="M338 97 L 346 105 L 338 113 Z"/>
+    <path d="M650 97 L 658 105 L 650 113 Z"/>
+    <path d="M962 97 L 970 105 L 962 113 Z"/>
+  </g>
+</svg>
